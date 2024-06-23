@@ -22,10 +22,6 @@ The Amazon mobile sales data for three regions (NA/EU/APAC) is available [here](
 - **USA Sales Order Data:** Parquet File Format
 - **France Sales Order Data:** JSON File Format
 
-### Video Tutorial
-
-For a complete hands-on guide, watch the [video tutorial](https://youtu.be/1jC98XQwBZw) available on my YouTube channel.
-
 ## Step-by-Step Guide
 
 ### Step 1: Create User & Virtual Warehouse
